@@ -12,4 +12,4 @@ This project analyzes an online retail dataset using Excel and Tableau.
 - Tableau
 
 ## Dashboard:
-![Dashboard Screenshot](Dash Board.png)
+![Dashboard Screenshot](https://github.com/saidivyamalllam/online-retail-sales-analysis/commit/6dc215caccfaea0c9d2f89e1352d90bcd7e34758#diff-738732797e427fcca4a870bc487173a841aad18ecee7ef896b4194f20fed3e8c)
