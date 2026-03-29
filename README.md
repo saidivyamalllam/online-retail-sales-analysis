@@ -1,46 +1,59 @@
-# Online Retail Sales Analysis
+# 🛍️ Online Retail Sales Analysis
 
-This project focuses on analyzing an online retail dataset to understand sales performance, customer trends, and product insights.
+This project analyzes an online retail dataset to understand sales performance, customer behavior, and product trends.
 
-Instead of just creating charts, I worked on cleaning real-world messy data and then built visualizations to answer business questions.
-
----
-
-## What I did
-
-- Cleaned the dataset by removing missing customer records  
-- Handled negative values (returns/cancellations) properly  
-- Created a Revenue column using Quantity × Unit Price  
-- Analyzed sales performance using Excel and Tableau  
+Instead of just creating charts, I worked on cleaning messy real-world data and building meaningful insights using Excel and Tableau.
 
 ---
 
-## Key Insights
+## 📊 Project Overview
 
-- United Kingdom contributed the majority of total sales  
-- A small set of products generated most of the revenue  
-- Sales activity in the dataset was concentrated in a specific time period  
-- Returns were present in the data and were handled during analysis  
+The dataset contains transactional data from an online retail store, including product details, quantities, prices, and customer locations.
 
----
-
-## Tools Used
-
-- Microsoft Excel (Data Cleaning & Pivot Analysis)  
-- Tableau Public (Dashboard & Visualization)  
+The main goal of this project is to:
+- Clean the data
+- Handle returns (negative values)
+- Analyze sales performance
+- Build an interactive dashboard
 
 ---
 
-## Dashboard Preview
+## 🛠️ Tools Used
+
+- Microsoft Excel (Data Cleaning & Analysis)
+- Tableau Public (Dashboard & Visualization)
+
+---
+
+## 🔧 Data Cleaning Steps
+
+- Removed missing CustomerID values
+- Identified negative values as returns/cancellations
+- Created a new Revenue column (Quantity × Unit Price)
+- Built a Clean Revenue field to exclude returns for better analysis
+
+---
+
+## 📈 Key Insights
+
+- United Kingdom contributes the majority of total sales
+- A few products generate most of the revenue
+- Sales are concentrated within a limited time range
+- Returns were identified and handled properly
+
+---
+
+## 📸 Dashboard Preview
 
 ![Dashboard](DashBoard.png)
 
 ---
 
 
-## What I learned
+## 💡 What I Learned
 
-This project helped me understand how real-world data is messy and requires cleaning before analysis.  
+This project helped me understand how real-world data is messy and requires proper cleaning before analysis.
+
 I also learned how to build dashboards that clearly communicate insights instead of just showing data.
 
 ---
