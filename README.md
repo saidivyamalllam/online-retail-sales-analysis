@@ -1,8 +1,8 @@
-# 🛍️ Online Retail Sales Analysis
+# 🛍️ Online Retail Sales Analysis Dashboard
 
 This project analyzes an online retail dataset to understand sales performance, customer behavior, and product trends.
 
-Instead of just creating charts, I worked on cleaning messy real-world data and building meaningful insights using Excel and Tableau.
+Instead of just creating charts, I focused on cleaning messy real-world data and building meaningful insights using Excel and Tableau.
 
 ---
 
@@ -15,6 +15,15 @@ The main goal of this project is to:
 - Handle returns (negative values)
 - Analyze sales performance
 - Build an interactive dashboard
+
+---
+## 📂 Dataset
+
+The dataset used in this project is publicly available on Kaggle:
+
+https://www.kaggle.com/datasets
+
+Due to file size limitations, the dataset is not included in this repository.
 
 ---
 
@@ -42,6 +51,12 @@ The main goal of this project is to:
 - Returns were identified and handled properly
 
 ---
+
+## 💼 Business Impact
+
+- Helps identify top-performing countries and products  
+- Provides insights into sales trends over time  
+- Supports data-driven decision-making  
 
 ## 📸 Dashboard Preview
 
