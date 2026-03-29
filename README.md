@@ -33,7 +33,7 @@ Instead of just creating charts, I worked on cleaning real-world messy data and 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](DashBoard.png)
 
 ---
 
