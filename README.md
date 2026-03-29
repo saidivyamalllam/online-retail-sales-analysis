@@ -12,4 +12,4 @@ This project analyzes an online retail dataset using Excel and Tableau.
 - Tableau
 
 ## Dashboard:
-[Dashboard Screenshot](Dash Board.png)
+![Dashboard Screenshot](Dash Board.png)
