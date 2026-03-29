@@ -1,15 +1,46 @@
 # Online Retail Sales Analysis
 
-This project analyzes an online retail dataset using Excel and Tableau.
+This project focuses on analyzing an online retail dataset to understand sales performance, customer trends, and product insights.
 
-## Key Insights:
-- Sales by country
-- Top-selling products
-- Monthly sales trends
+Instead of just creating charts, I worked on cleaning real-world messy data and then built visualizations to answer business questions.
 
-## Tools Used:
-- Excel
-- Tableau
+---
 
-## Dashboard:
-![Dashboard Screenshot](https://github.com/saidivyamalllam/online-retail-sales-analysis/commit/6dc215caccfaea0c9d2f89e1352d90bcd7e34758#diff-738732797e427fcca4a870bc487173a841aad18ecee7ef896b4194f20fed3e8c)
+## What I did
+
+- Cleaned the dataset by removing missing customer records  
+- Handled negative values (returns/cancellations) properly  
+- Created a Revenue column using Quantity × Unit Price  
+- Analyzed sales performance using Excel and Tableau  
+
+---
+
+## Key Insights
+
+- United Kingdom contributed the majority of total sales  
+- A small set of products generated most of the revenue  
+- Sales activity in the dataset was concentrated in a specific time period  
+- Returns were present in the data and were handled during analysis  
+
+---
+
+## Tools Used
+
+- Microsoft Excel (Data Cleaning & Pivot Analysis)  
+- Tableau Public (Dashboard & Visualization)  
+
+---
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
+---
+
+
+## What I learned
+
+This project helped me understand how real-world data is messy and requires cleaning before analysis.  
+I also learned how to build dashboards that clearly communicate insights instead of just showing data.
+
+---
